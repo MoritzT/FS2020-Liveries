@@ -7,7 +7,7 @@ Just make sure they are clean and adhere to the guide here: https://forums.fligh
 
 More detailed instructions and resources will be added shortly. Please be patient.
 
-![Screenshot](https://prnt.sc/u2xopg)
+![Screenshot](images/Screenshot_185.png)
 
 ## Installation
 
