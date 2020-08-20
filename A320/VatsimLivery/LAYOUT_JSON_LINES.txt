@@ -19,6 +19,16 @@
       "date": 132398507200036293
     },
     {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/thumbnail.JPG",
+      "size": 236335,
+      "date": 132200099790000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/thumbnail_small.JPG",
+      "size": 33608,
+      "date": 132270122080000000
+    },
+    {
       "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/texture.CFG",
       "size": 166,
       "date": 132243417610000000
