@@ -309,6 +309,31 @@
       "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.SPIRIT/thumbnail_small.JPG",
       "size": 33608,
       "date": 132270122080000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507575965146
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132398507575895148
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.VATSIM/texture.CFG",
+      "size": 166,
+      "date": 132243417610000000
     }
   ]
 }
