@@ -5,7 +5,7 @@
 This is still a work in progress as we work out livery issues. Feel free to contribute and add more liveries.
 Just make sure they are clean and adhere to the guide here: https://forums.flightsimulator.com/t/how-to-creating-custom-liveries-with-ps-or-other-image-editor/153027
 
-More detailed instructions and resources will be added shortly.
+More detailed instructions and resources will be added shortly. Please be patient.
 
 
 ## Installation
