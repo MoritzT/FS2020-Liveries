@@ -1,0 +1,65 @@
+{
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132398508758630094
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_ENGINES_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132398508758580090
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132398508745550481
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_FUSELAGE_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132398508745510484
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS",
+      "size": 2796344,
+      "date": 132398508751510304
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_WINGS_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132398508751470306
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507575965146
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_LIVERY_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132398507575895148
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS",
+      "size": 5592560,
+      "date": 132398507200106298
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/A320NEO_AIRFRAME_LIVERY_TEXTS_ALBD.PNG.DDS.json",
+      "size": 119,
+      "date": 132398507200036293
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/texture.CFG",
+      "size": 166,
+      "date": 132243417610000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/thumbnail.JPG",
+      "size": 236335,
+      "date": 132200099790000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_A320_NEO/TEXTURE.JBU/thumbnail_small.JPG",
+      "size": 33608,
+      "date": 132270122080000000
+    }
