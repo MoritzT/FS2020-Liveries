@@ -17,7 +17,8 @@ Unpack and copy the folder into your FS 2020 Community folder.
 The community folder is located in the location where you downloaded the games content.
 Default path is
 %localappdata%\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\Packages
-Steam: TBD
+
+Steam: %appdata%\Microsoft Flight Simulator\Packages
 
 ### Single Livery
 TBD
